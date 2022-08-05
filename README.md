@@ -1,4 +1,4 @@
-## Rockbuster
+# Rockbuster data analytics project
 Online movie rental data analytics project with SQL as part of Career Foundry's Data Analytics course.
 
 ## Objective
